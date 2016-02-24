@@ -70,14 +70,15 @@ in which the pictures are sorted, look at 'fileList'.
 """
 
 # Variables to set by user 
-folderPath = '/home/phc/Desktop/Face_stimulus/'  # Where all the pictures are
+facesPath = ['/home/phc/Dropbox/Education/University/'
+             'Hiv2016/Labo2/emotionFaces/']  # Where all the pictures are
 saveName   = '/home/phc/Desktop/emoScores.p'     # Path where it will be saved
 subKey     = ''  # Oxford API subscription key
 
 
 # SCRIPT ---------------------------------------------------------------------
 
-fileList   = sort(os.listdir(folderPath))         # Sorted list of pictures name
+fileList   = sort(os.listdir(facesPath))         # Sorted list of pictures name
 emoScores  = dict()
 
 for file in fileList:
