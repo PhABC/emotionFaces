@@ -72,7 +72,7 @@ in which the pictures are sorted, look at 'fileList'.
 # Variables to set by user 
 folderPath = '/home/phc/Desktop/Face_stimulus/'  # Where all the pictures are
 saveName   = '/home/phc/Desktop/emoScores.p'     # Path where it will be saved
-subKey     = '7ffe2beb6da1487fa4482affaf75f9cb'  # Oxford API subscription key
+subKey     = ''  # Oxford API subscription key
 
 
 # SCRIPT ---------------------------------------------------------------------
