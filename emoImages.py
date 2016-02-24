@@ -5,7 +5,7 @@ Created on Tue Feb 24 8:39:18 2016
 Title: Emoimages ~ Evaluation the emotional content of faces via the Oxford Project
 
 """
-import httplib, pickle, os
+import httplib, pickle, os, time
 
 # DESCRIPTION -----------------------------------------------------------------
 
@@ -32,12 +32,24 @@ the saveName and the subscription key.
     subKey     = Subscription key allowing you to use the Oxford Project API 
     
 The subscription key can be obtained on your profile when you register (free) to 
-microsoft ... This key allows 20 requests of face processing per minutes up to 
-a maximum of 5000 faces per months. 
+microsoft azure. See below for how to get your subscription key.  This key allows 
+20 requests of face processing per minutes up to a maximum of 5000 faces per months, 
+hence the usage of time.sleep in thi scipt. 
 
 Order in which faces are sorted might not be the same as the order desired. 
 Edit the name so that they respect python's sorting conventions. To get the order
 in which the pictures are sorted, look at 'fileList'.
+
+"""
+# SUBSCRIPTION KEY --------------------------------------------------------------
+"""
+	+Go on the following website:  projectoxford.ai/pricing
+	+Click on "Get started today for free"
+	+Register
+	+Find Emotion API and subscribe
+	+Click on "show" under the primary key and copy paste in this script
+		at subkey.
+Steps aren't precise, so you might have to play around a little.
 
 """
 # EXAMPLES ----------------------------------------------------------------------
@@ -70,15 +82,17 @@ in which the pictures are sorted, look at 'fileList'.
 """
 
 # Variables to set by user 
-facesPath = ['/home/phc/Dropbox/Education/University/'
-             'Hiv2016/Labo2/emotionFaces/']  # Where all the pictures are
-saveName   = '/home/phc/Desktop/emoScores.p'     # Path where it will be saved
-subKey     = ''  # Oxford API subscription key
+
+facesPath  = ('/home/phc/Dropbox/Education/University/'
+              'Hiv2016/Labo2/emotionFaces/faces/') # Path where all the pictures are 
+saveName   = ('/home/phc/Dropbox/Education/University/'  # Path where emotion scores will be saved
+              'Hiv2016/Labo2/emotionFaces/emoScores.p')    
+subKey     = '7ffe2beb6da1487fa4482affaf75f9cb'  # Oxford API subscription key
 
 
 # SCRIPT ---------------------------------------------------------------------
 
-fileList   = sort(os.listdir(facesPath))         # Sorted list of pictures name
+fileList   = sorted(os.listdir(facesPath))         # Sorted list of pictures name
 emoScores  = dict()
 
 for file in fileList:
@@ -86,7 +100,7 @@ for file in fileList:
     print 'Loading ' + file
     
     # Image to analyse (body of the request)
-    filename = folderPath + file                # Path of specified picture
+    filename = facesPath + file                # Path of specified picture
     f = open(filename, "rb")  
     body = f.read()                             # body of image for API
     f.close()
@@ -111,6 +125,6 @@ for file in fileList:
     except Exception as e:
         print("[Errno {0}] {1}".format(e.errno, e.strerror))
         
-    pause(5) # API has a limit of 20 calls per minute....
+    time.sleep(5) # API has a limit of 20 calls per minute....
     
 pickle.dump(emoScores,open(saveName,'wb'))
