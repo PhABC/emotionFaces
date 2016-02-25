@@ -125,6 +125,6 @@ for file in fileList:
     except Exception as e:
         print("[Errno {0}] {1}".format(e.errno, e.strerror))
         
-    time.sleep(5) # API has a limit of 20 calls per minute....
+    time.sleep(3) # API has a limit of 20 calls per minute....
     
 pickle.dump(emoScores,open(saveName,'wb'))
