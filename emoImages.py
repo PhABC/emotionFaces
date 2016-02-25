@@ -41,7 +41,9 @@ Edit the name so that they respect python's sorting conventions. To get the orde
 in which the pictures are sorted, look at 'fileList'.
 
 """
+
 # SUBSCRIPTION KEY --------------------------------------------------------------
+
 """
 	+Go on the following website:  projectoxford.ai/pricing
 	+Click on "Get started today for free"
@@ -52,6 +54,7 @@ in which the pictures are sorted, look at 'fileList'.
 Steps aren't precise, so you might have to play around a little.
 
 """
+
 # EXAMPLES ----------------------------------------------------------------------
 
 """
