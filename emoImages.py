@@ -87,7 +87,7 @@ facesPath  = ('/home/phc/Dropbox/Education/University/'  # Path where all the pi
               'Hiv2016/Labo2/emotionFaces/faces/')       
 saveName   = ('/home/phc/Dropbox/Education/University/'  # Path where emotion scores will be saved
               'Hiv2016/Labo2/emotionFaces/emoScores.p')    
-subKey     = '7ffe2beb6da1487fa4482affaf75f9cb'          # Oxford API subscription key
+subKey     = ''          # Oxford API subscription key
 
 # SCRIPT ---------------------------------------------------------------------
 
