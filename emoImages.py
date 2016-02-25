@@ -83,12 +83,11 @@ Steps aren't precise, so you might have to play around a little.
 
 # Variables to set by user 
 
-facesPath  = ('/home/phc/Dropbox/Education/University/'
-              'Hiv2016/Labo2/emotionFaces/faces/') # Path where all the pictures are 
+facesPath  = ('/home/phc/Dropbox/Education/University/'  # Path where all the pictures are 
+              'Hiv2016/Labo2/emotionFaces/faces/')       
 saveName   = ('/home/phc/Dropbox/Education/University/'  # Path where emotion scores will be saved
               'Hiv2016/Labo2/emotionFaces/emoScores.p')    
-subKey     = '7ffe2beb6da1487fa4482affaf75f9cb'  # Oxford API subscription key
-
+subKey     = '7ffe2beb6da1487fa4482affaf75f9cb'          # Oxford API subscription key
 
 # SCRIPT ---------------------------------------------------------------------
 
@@ -101,30 +100,27 @@ for file in fileList:
     
     # Image to analyse (body of the request)
     filename = facesPath + file                # Path of specified picture
-    f = open(filename, "rb")  
-    body = f.read()                             # body of image for API
+    f        = open(filename, "rb")  	       # Reading picture
+    body     = f.read()                        # body of image for API
     f.close()
         
     # API request for Emotion Detection with subscription key
-    # NEED TO MAKE AN ACCOUNT TO OBTAIN SUBSCRIPTION KEY FOR OXFORD PROJECT
-    headers = {
-       'Content-type': 'application/octet-stream',
-       'Ocp-Apim-Subscription-Key': subKey
-    }
+    headers = {'Content-type': 'application/octet-stream',
+		'Ocp-Apim-Subscription-Key': subKey }
       
     try:
-    
-        conn = httplib.HTTPSConnection('api.projectoxford.ai')        # API adress
+        conn     = httplib.HTTPSConnection('api.projectoxford.ai')    # API adress
         conn.request("POST", "/emotion/v1.0/recognize",body ,headers) # API access
-        response = conn.getresponse()  # Extracting information from API      
-        data = eval(response.read())   # Storing information
-        conn.close()                   # Closing reading file
         
-        emoScores[file] = data[0]['scores']
+        response = conn.getresponse()        # Extracting information from API      
+        data     = eval(response.read())     # Storing information
+        conn.close()                         # Closing read file
+        
+        emoScores[file] = data[0]['scores']  # Storing the emotion scores in a dictionnary
         
     except Exception as e:
         print("[Errno {0}] {1}".format(e.errno, e.strerror))
         
     time.sleep(5) # API has a limit of 20 calls per minute....
     
-pickle.dump(emoScores,open(saveName,'wb'))
+pickle.dump(emoScores,open(saveName,'wb'))   # Saving the file in pickle format in to the specified path
