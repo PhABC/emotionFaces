@@ -1,0 +1,3496 @@
+
+
+A001.png
+   Happiness: 0.9999996
+   Sadness:   2.04710478e-15
+   Neutral:   3.69326472e-07
+
+A002.png
+   Happiness: 0.9999963
+   Sadness:   1.53798635e-14
+   Neutral:   1.68428357e-06
+
+A003.png
+   Happiness: 0.999997556
+   Sadness:   1.25884664e-14
+   Neutral:   1.83977659e-06
+
+A004.png
+   Happiness: 0.9999986
+   Sadness:   1.31548664e-15
+   Neutral:   1.16525746e-06
+
+A005.png
+   Happiness: 0.9999977
+   Sadness:   1.66360913e-14
+   Neutral:   1.99303281e-06
+
+A006.png
+   Happiness: 0.9999992
+   Sadness:   1.511496e-16
+   Neutral:   7.01607235e-07
+
+A007.png
+   Happiness: 0.999998569
+   Sadness:   1.29389746e-14
+   Neutral:   1.22638448e-06
+
+A008.png
+   Happiness: 0.999999166
+   Sadness:   4.01351231e-15
+   Neutral:   5.9277653e-07
+
+A009.png
+   Happiness: 0.9999986
+   Sadness:   4.13758061e-15
+   Neutral:   1.03343655e-06
+
+A010.png
+   Happiness: 0.9999977
+   Sadness:   1.29665918e-13
+   Neutral:   1.79359711e-06
+
+A011.png
+   Happiness: 0.999991953
+   Sadness:   3.145275e-13
+   Neutral:   6.17249452e-06
+
+A012.png
+   Happiness: 0.9999964
+   Sadness:   4.713052e-14
+   Neutral:   2.93813514e-06
+
+A013.png
+   Happiness: 0.9999835
+   Sadness:   3.523934e-14
+   Neutral:   1.43876459e-05
+
+A014.png
+   Happiness: 0.9999922
+   Sadness:   1.44495283e-14
+   Neutral:   6.01935244e-06
+
+A015.png
+   Happiness: 0.9999136
+   Sadness:   9.493012e-12
+   Neutral:   6.44073662e-05
+
+A016.png
+   Happiness: 0.999955356
+   Sadness:   3.39614122e-12
+   Neutral:   3.132003e-05
+
+A017.png
+   Happiness: 0.9999862
+   Sadness:   7.971046e-13
+   Neutral:   1.11980462e-05
+
+A018.png
+   Happiness: 0.9999657
+   Sadness:   1.71940621e-11
+   Neutral:   2.764644e-05
+
+A019.png
+   Happiness: 0.9998968
+   Sadness:   7.034711e-12
+   Neutral:   7.138243e-05
+
+A020.png
+   Happiness: 0.9998865
+   Sadness:   2.81179784e-11
+   Neutral:   8.66408e-05
+
+A021.png
+   Happiness: 0.9998082
+   Sadness:   1.21448282e-10
+   Neutral:   0.000161658041
+
+A022.png
+   Happiness: 0.9996134
+   Sadness:   1.24547608e-10
+   Neutral:   0.000305804337
+
+A023.png
+   Happiness: 0.9998938
+   Sadness:   3.1263693e-11
+   Neutral:   7.474117e-05
+
+A024.png
+   Happiness: 0.9997914
+   Sadness:   8.922831e-11
+   Neutral:   0.000164026351
+
+A025.png
+   Happiness: 0.999591053
+   Sadness:   1.01291753e-09
+   Neutral:   0.0002507585
+
+A026.png
+   Happiness: 0.999286354
+   Sadness:   2.75603917e-09
+   Neutral:   0.000471936015
+
+A027.png
+   Happiness: 0.9989709
+   Sadness:   8.979395e-09
+   Neutral:   0.000726177532
+
+A028.png
+   Happiness: 0.9989618
+   Sadness:   1.20338361e-08
+   Neutral:   0.000587942137
+
+A029.png
+   Happiness: 0.9983954
+   Sadness:   4.37855476e-08
+   Neutral:   0.001282873
+
+A030.png
+   Happiness: 0.9984618
+   Sadness:   4.224804e-08
+   Neutral:   0.00122108718
+
+A031.png
+   Happiness: 0.99657464
+   Sadness:   1.02421268e-07
+   Neutral:   0.00250048656
+
+A032.png
+   Happiness: 0.998519361
+   Sadness:   1.16059631e-07
+   Neutral:   0.0010748083
+
+A033.png
+   Happiness: 0.996856153
+   Sadness:   1.49554282e-07
+   Neutral:   0.00227708835
+
+A034.png
+   Happiness: 0.9978674
+   Sadness:   3.70626964e-07
+   Neutral:   0.00123475958
+
+A035.png
+   Happiness: 0.997554243
+   Sadness:   1.32035643e-06
+   Neutral:   0.002042454
+
+A036.png
+   Happiness: 0.9933016
+   Sadness:   5.51079429e-05
+   Neutral:   0.00449512526
+
+A037.png
+   Happiness: 0.9884679
+   Sadness:   4.43377321e-05
+   Neutral:   0.0100582326
+
+A038.png
+   Happiness: 0.9944689
+   Sadness:   3.9175804e-05
+   Neutral:   0.00449025631
+
+A039.png
+   Happiness: 0.991823852
+   Sadness:   0.00011840072
+   Neutral:   0.0057865316
+
+A040.png
+   Happiness: 0.9618848
+   Sadness:   0.0115402723
+   Neutral:   0.017846534
+
+A041.png
+   Happiness: 0.973547757
+   Sadness:   0.00446706032
+   Neutral:   0.0137584656
+
+A042.png
+   Happiness: 0.8879767
+   Sadness:   0.08326616
+   Neutral:   0.0239073075
+
+A043.png
+   Happiness: 0.6314819
+   Sadness:   0.332789779
+   Neutral:   0.0279765911
+
+A044.png
+   Happiness: 0.790404856
+   Sadness:   0.149459958
+   Neutral:   0.04407633
+
+A045.png
+   Happiness: 0.8523411
+   Sadness:   0.0687451959
+   Neutral:   0.0603026338
+
+A046.png
+   Happiness: 0.811549842
+   Sadness:   0.100935884
+   Neutral:   0.0703115538
+
+A047.png
+   Happiness: 0.5210325
+   Sadness:   0.409403682
+   Neutral:   0.053009
+
+A048.png
+   Happiness: 0.6868446
+   Sadness:   0.203725249
+   Neutral:   0.0840156749
+
+A049.png
+   Happiness: 0.23616375
+   Sadness:   0.662248552
+   Neutral:   0.06748251
+
+A050.png
+   Happiness: 0.305232555
+   Sadness:   0.5899069
+   Neutral:   0.0747303
+
+A051.png
+   Happiness: 0.3378799
+   Sadness:   0.5030566
+   Neutral:   0.119391754
+
+A052.png
+   Happiness: 0.286413759
+   Sadness:   0.6149409
+   Neutral:   0.0714912
+
+A053.png
+   Happiness: 0.09961401
+   Sadness:   0.838554561
+   Neutral:   0.03294597
+
+A054.png
+   Happiness: 0.149755761
+   Sadness:   0.744709551
+   Neutral:   0.08106918
+
+A055.png
+   Happiness: 0.0680137351
+   Sadness:   0.8490402
+   Neutral:   0.0511495
+
+A056.png
+   Happiness: 0.0572796874
+   Sadness:   0.8563776
+   Neutral:   0.0719808862
+
+A057.png
+   Happiness: 0.0405468
+   Sadness:   0.879165351
+   Neutral:   0.0578610152
+
+A058.png
+   Happiness: 0.00359278219
+   Sadness:   0.9815187
+   Neutral:   0.009881466
+
+A059.png
+   Happiness: 0.00110788841
+   Sadness:   0.9897989
+   Neutral:   0.00643451232
+
+A060.png
+   Happiness: 0.000288595853
+   Sadness:   0.989193439
+   Neutral:   0.00534620555
+
+A061.png
+   Happiness: 0.00166416832
+   Sadness:   0.964629054
+   Neutral:   0.0275079366
+
+A062.png
+   Happiness: 2.48909e-05
+   Sadness:   0.9972792
+   Neutral:   0.00149323267
+
+A063.png
+   Happiness: 3.13289161e-06
+   Sadness:   0.9984556
+   Neutral:   0.000528772071
+
+A064.png
+   Happiness: 1.18843836e-05
+   Sadness:   0.9986114
+   Neutral:   0.000867602357
+
+A065.png
+   Happiness: 4.0396817e-06
+   Sadness:   0.999040365
+   Neutral:   0.0004596409
+
+A066.png
+   Happiness: 7.674047e-07
+   Sadness:   0.998923063
+   Neutral:   0.000143720114
+
+A067.png
+   Happiness: 1.36044844e-06
+   Sadness:   0.9987724
+   Neutral:   0.000338685553
+
+A068.png
+   Happiness: 2.53493022e-06
+   Sadness:   0.998042166
+   Neutral:   0.00086000876
+
+A069.png
+   Happiness: 2.91557747e-08
+   Sadness:   0.999601245
+   Neutral:   2.43097275e-05
+
+A070.png
+   Happiness: 7.72243652e-07
+   Sadness:   0.9994197
+   Neutral:   0.0003940466
+
+A071.png
+   Happiness: 4.03717968e-06
+   Sadness:   0.998075068
+   Neutral:   0.00172652071
+
+A072.png
+   Happiness: 8.45957047e-08
+   Sadness:   0.999653757
+   Neutral:   6.28933849e-05
+
+A073.png
+   Happiness: 3.31118645e-05
+   Sadness:   0.9972416
+   Neutral:   0.0024567
+
+A074.png
+   Happiness: 1.9111626e-06
+   Sadness:   0.99701196
+   Neutral:   0.00215425948
+
+A075.png
+   Happiness: 1.27642849e-07
+   Sadness:   0.9997878
+   Neutral:   0.000132360685
+
+A076.png
+   Happiness: 9.575424e-06
+   Sadness:   0.9975215
+   Neutral:   0.002259811
+
+A077.png
+   Happiness: 8.480917e-09
+   Sadness:   0.9994986
+   Neutral:   5.88623625e-05
+
+A078.png
+   Happiness: 4.55678475e-07
+   Sadness:   0.996531069
+   Neutral:   0.00319792121
+
+A079.png
+   Happiness: 2.64558764e-07
+   Sadness:   0.9991346
+   Neutral:   0.000629213348
+
+A080.png
+   Happiness: 6.969262e-07
+   Sadness:   0.997711658
+   Neutral:   0.00126150285
+
+A081.png
+   Happiness: 2.981378e-06
+   Sadness:   0.978575349
+   Neutral:   0.0206194837
+
+A082.png
+   Happiness: 6.72575561e-06
+   Sadness:   0.977799356
+   Neutral:   0.021493407
+
+A083.png
+   Happiness: 3.783007e-06
+   Sadness:   0.9790694
+   Neutral:   0.0206736159
+
+A084.png
+   Happiness: 5.671312e-07
+   Sadness:   0.9981688
+   Neutral:   0.00163843972
+
+A085.png
+   Happiness: 2.14565272e-08
+   Sadness:   0.9998065
+   Neutral:   0.000130302622
+
+A086.png
+   Happiness: 4.28554756e-08
+   Sadness:   0.9981847
+   Neutral:   0.00165636034
+
+A087.png
+   Happiness: 7.441704e-08
+   Sadness:   0.9989391
+   Neutral:   0.0007168243
+
+A088.png
+   Happiness: 5.452047e-07
+   Sadness:   0.9963953
+   Neutral:   0.00343720615
+
+A089.png
+   Happiness: 9.702833e-09
+   Sadness:   0.998263657
+   Neutral:   0.0005547641
+
+A090.png
+   Happiness: 4.62020751e-08
+   Sadness:   0.999054849
+   Neutral:   0.00065818
+
+A091.png
+   Happiness: 2.31532431e-06
+   Sadness:   0.98586905
+   Neutral:   0.0131670823
+
+A092.png
+   Happiness: 2.692471e-07
+   Sadness:   0.995464742
+   Neutral:   0.00330246054
+
+A093.png
+   Happiness: 5.598421e-07
+   Sadness:   0.9871304
+   Neutral:   0.0120805446
+
+A094.png
+   Happiness: 2.60562221e-08
+   Sadness:   0.997367144
+   Neutral:   0.00125212013
+
+A095.png
+   Happiness: 8.05361537e-08
+   Sadness:   0.9962294
+   Neutral:   0.00173440774
+
+A096.png
+   Happiness: 1.2991535e-06
+   Sadness:   0.955150843
+   Neutral:   0.0374324881
+
+A097.png
+   Happiness: 1.0771442e-07
+   Sadness:   0.980651557
+   Neutral:   0.0180384386
+
+A098.png
+   Happiness: 3.169936e-09
+   Sadness:   0.9987314
+   Neutral:   0.0010754877
+
+A099.png
+   Happiness: 3.59497534e-08
+   Sadness:   0.994926155
+   Neutral:   0.00427015126
+
+A1.png
+   Happiness: 0.9999971
+   Sadness:   2.28801336e-14
+   Neutral:   2.25883173e-06
+
+A10.png
+   Happiness: 0.9999987
+   Sadness:   3.25543878e-15
+   Neutral:   9.672641e-07
+
+A100.png
+   Happiness: 3.6187906e-08
+   Sadness:   0.993675947
+   Neutral:   0.005537041
+
+A101.png
+   Happiness: 1.0
+   Sadness:   5.4934e-17
+   Neutral:   1.06663178e-09
+
+A102.png
+   Happiness: 1.0
+   Sadness:   5.94399167e-19
+   Neutral:   1.09609474e-10
+
+A103.png
+   Happiness: 1.0
+   Sadness:   1.58692642e-16
+   Neutral:   7.858731e-10
+
+A104.png
+   Happiness: 1.0
+   Sadness:   2.97034535e-19
+   Neutral:   1.1971843e-10
+
+A105.png
+   Happiness: 1.0
+   Sadness:   1.04372154e-16
+   Neutral:   1.51542268e-09
+
+A106.png
+   Happiness: 1.0
+   Sadness:   4.38311137e-18
+   Neutral:   2.059503e-09
+
+A107.png
+   Happiness: 1.0
+   Sadness:   1.17427073e-17
+   Neutral:   1.22846322e-09
+
+A108.png
+   Happiness: 1.0
+   Sadness:   7.53783567e-16
+   Neutral:   4.16920765e-09
+
+A109.png
+   Happiness: 1.0
+   Sadness:   1.59785966e-17
+   Neutral:   4.38948966e-09
+
+A11.png
+   Happiness: 0.999995053
+   Sadness:   2.7640164e-14
+   Neutral:   4.33229934e-06
+
+A110.png
+   Happiness: 1.0
+   Sadness:   1.82910015e-16
+   Neutral:   5.860648e-09
+
+A111.png
+   Happiness: 1.0
+   Sadness:   1.56282492e-15
+   Neutral:   1.22964536e-08
+
+A112.png
+   Happiness: 1.0
+   Sadness:   2.28095131e-15
+   Neutral:   8.659891e-09
+
+A113.png
+   Happiness: 1.0
+   Sadness:   6.15640156e-17
+   Neutral:   9.067079e-09
+
+A114.png
+   Happiness: 1.0
+   Sadness:   1.59219049e-15
+   Neutral:   1.22920447e-08
+
+A115.png
+   Happiness: 1.0
+   Sadness:   1.07604392e-16
+   Neutral:   1.21298527e-08
+
+A116.png
+   Happiness: 0.9999998
+   Sadness:   2.916036e-14
+   Neutral:   1.71350322e-07
+
+A117.png
+   Happiness: 0.9999999
+   Sadness:   4.83098423e-15
+   Neutral:   1.3230526e-07
+
+A118.png
+   Happiness: 0.99999994
+   Sadness:   9.0251225e-15
+   Neutral:   8.82123459e-08
+
+A119.png
+   Happiness: 0.9999995
+   Sadness:   4.53912149e-14
+   Neutral:   4.739153e-07
+
+A12.png
+   Happiness: 0.9999958
+   Sadness:   8.86482253e-14
+   Neutral:   3.57606086e-06
+
+A120.png
+   Happiness: 0.9999993
+   Sadness:   1.38706063e-13
+   Neutral:   7.184756e-07
+
+A121.png
+   Happiness: 0.9999992
+   Sadness:   9.640121e-14
+   Neutral:   7.895155e-07
+
+A122.png
+   Happiness: 0.999999762
+   Sadness:   6.578536e-14
+   Neutral:   2.36864949e-07
+
+A123.png
+   Happiness: 0.9999975
+   Sadness:   1.99591659e-13
+   Neutral:   2.51137863e-06
+
+A124.png
+   Happiness: 0.9999978
+   Sadness:   2.27690615e-13
+   Neutral:   2.16959074e-06
+
+A125.png
+   Happiness: 0.9999935
+   Sadness:   9.765582e-13
+   Neutral:   6.433268e-06
+
+A126.png
+   Happiness: 0.999997258
+   Sadness:   7.718877e-13
+   Neutral:   2.74939543e-06
+
+A127.png
+   Happiness: 0.999924
+   Sadness:   3.00206041e-11
+   Neutral:   7.561813e-05
+
+A128.png
+   Happiness: 0.9999289
+   Sadness:   4.12126323e-12
+   Neutral:   7.054095e-05
+
+A129.png
+   Happiness: 0.999926567
+   Sadness:   3.65688729e-12
+   Neutral:   7.24194e-05
+
+A13.png
+   Happiness: 0.99998
+   Sadness:   4.656488e-13
+   Neutral:   1.48562021e-05
+
+A130.png
+   Happiness: 0.9999399
+   Sadness:   2.39895569e-11
+   Neutral:   5.983625e-05
+
+A131.png
+   Happiness: 0.999762833
+   Sadness:   7.56510063e-11
+   Neutral:   0.0002361903
+
+A132.png
+   Happiness: 0.9990474
+   Sadness:   4.811432e-10
+   Neutral:   0.000944727333
+
+A133.png
+   Happiness: 0.9992517
+   Sadness:   3.262012e-10
+   Neutral:   0.0007387062
+
+A134.png
+   Happiness: 0.9976358
+   Sadness:   8.155629e-09
+   Neutral:   0.00225460622
+
+A135.png
+   Happiness: 0.9957852
+   Sadness:   2.28238477e-08
+   Neutral:   0.004010812
+
+A136.png
+   Happiness: 0.99668473
+   Sadness:   2.10929985e-09
+   Neutral:   0.00326135429
+
+A137.png
+   Happiness: 0.991934538
+   Sadness:   2.53820147e-08
+   Neutral:   0.007871319
+
+A138.png
+   Happiness: 0.980977058
+   Sadness:   1.48737641e-07
+   Neutral:   0.0187050961
+
+A139.png
+   Happiness: 0.983660936
+   Sadness:   8.819248e-08
+   Neutral:   0.016091235
+
+A14.png
+   Happiness: 0.999964654
+   Sadness:   5.887927e-12
+   Neutral:   2.403896e-05
+
+A140.png
+   Happiness: 0.983695
+   Sadness:   1.46634747e-07
+   Neutral:   0.0157783814
+
+A141.png
+   Happiness: 0.9716064
+   Sadness:   7.065657e-08
+   Neutral:   0.02797451
+
+A142.png
+   Happiness: 0.967595339
+   Sadness:   2.88544129e-07
+   Neutral:   0.03167722
+
+A143.png
+   Happiness: 0.982236266
+   Sadness:   1.77654925e-07
+   Neutral:   0.01743911
+
+A144.png
+   Happiness: 0.978249252
+   Sadness:   4.513331e-07
+   Neutral:   0.02127074
+
+A145.png
+   Happiness: 0.9740105
+   Sadness:   4.931372e-07
+   Neutral:   0.0255792458
+
+A146.png
+   Happiness: 0.9204572
+   Sadness:   1.25676115e-05
+   Neutral:   0.0769677162
+
+A147.png
+   Happiness: 0.8567394
+   Sadness:   5.22820956e-05
+   Neutral:   0.137026533
+
+A148.png
+   Happiness: 0.8332179
+   Sadness:   5.50541663e-05
+   Neutral:   0.16113095
+
+A149.png
+   Happiness: 0.818230152
+   Sadness:   5.78212348e-05
+   Neutral:   0.178888664
+
+A15.png
+   Happiness: 0.9999971
+   Sadness:   3.88741028e-15
+   Neutral:   2.582128e-06
+
+A150.png
+   Happiness: 0.8173947
+   Sadness:   4.413131e-05
+   Neutral:   0.179780528
+
+A151.png
+   Happiness: 0.7767938
+   Sadness:   0.000248322816
+   Neutral:   0.211332425
+
+A152.png
+   Happiness: 0.809148848
+   Sadness:   6.00496242e-05
+   Neutral:   0.184288442
+
+A153.png
+   Happiness: 0.6449749
+   Sadness:   0.000280801178
+   Neutral:   0.35008502
+
+A154.png
+   Happiness: 0.680127144
+   Sadness:   0.0005738389
+   Neutral:   0.303612053
+
+A155.png
+   Happiness: 0.5768637
+   Sadness:   0.0009820659
+   Neutral:   0.412292659
+
+A156.png
+   Happiness: 0.5384865
+   Sadness:   0.0016985921
+   Neutral:   0.436543584
+
+A157.png
+   Happiness: 0.420056015
+   Sadness:   0.000962700869
+   Neutral:   0.572775245
+
+A158.png
+   Happiness: 0.469623357
+   Sadness:   0.0009548687
+   Neutral:   0.522269
+
+A159.png
+   Happiness: 0.330128938
+   Sadness:   0.000533598359
+   Neutral:   0.6646597
+
+A16.png
+   Happiness: 0.9999622
+   Sadness:   1.56461747e-12
+   Neutral:   2.83832633e-05
+
+A160.png
+   Happiness: 0.309722543
+   Sadness:   0.000624936656
+   Neutral:   0.687691033
+
+A161.png
+   Happiness: 0.276333123
+   Sadness:   0.00228341576
+   Neutral:   0.7137591
+
+A162.png
+   Happiness: 0.111187972
+   Sadness:   0.00125562807
+   Neutral:   0.884866834
+
+A163.png
+   Happiness: 0.272624344
+   Sadness:   0.0010692497
+   Neutral:   0.723873258
+
+A164.png
+   Happiness: 0.1166275
+   Sadness:   0.00157497346
+   Neutral:   0.87905395
+
+A165.png
+   Happiness: 0.08816478
+   Sadness:   0.00167518563
+   Neutral:   0.908858657
+
+A166.png
+   Happiness: 0.09342647
+   Sadness:   0.006652523
+   Neutral:   0.895650864
+
+A167.png
+   Happiness: 0.081622906
+   Sadness:   0.006086748
+   Neutral:   0.9074169
+
+A168.png
+   Happiness: 0.04472637
+   Sadness:   0.009047379
+   Neutral:   0.9422161
+
+A169.png
+   Happiness: 0.0303662661
+   Sadness:   0.008187074
+   Neutral:   0.9533298
+
+A17.png
+   Happiness: 0.999905765
+   Sadness:   1.55843047e-11
+   Neutral:   7.512596e-05
+
+A170.png
+   Happiness: 0.0208571274
+   Sadness:   0.00528884865
+   Neutral:   0.9697218
+
+A171.png
+   Happiness: 0.0144920954
+   Sadness:   0.0114457076
+   Neutral:   0.96918416
+
+A172.png
+   Happiness: 0.0107165687
+   Sadness:   0.0232443046
+   Neutral:   0.960000634
+
+A173.png
+   Happiness: 0.00664821966
+   Sadness:   0.022630142
+   Neutral:   0.9663468
+
+A174.png
+   Happiness: 0.0133962622
+   Sadness:   0.0113584008
+   Neutral:   0.9727139
+
+A175.png
+   Happiness: 0.00617558463
+   Sadness:   0.0205055941
+   Neutral:   0.9700283
+
+A176.png
+   Happiness: 0.005402289
+   Sadness:   0.0250275973
+   Neutral:   0.9662157
+
+A177.png
+   Happiness: 0.00471608248
+   Sadness:   0.0111789731
+   Neutral:   0.980876565
+
+A178.png
+   Happiness: 0.00405512145
+   Sadness:   0.0327705964
+   Neutral:   0.957888067
+
+A179.png
+   Happiness: 0.004810112
+   Sadness:   0.0274825338
+   Neutral:   0.962537766
+
+A18.png
+   Happiness: 0.999954641
+   Sadness:   6.14527439e-12
+   Neutral:   3.311726e-05
+
+A180.png
+   Happiness: 0.00374373444
+   Sadness:   0.0441257544
+   Neutral:   0.9485674
+
+A181.png
+   Happiness: 0.00342408125
+   Sadness:   0.04581265
+   Neutral:   0.945277631
+
+A182.png
+   Happiness: 0.00313183526
+   Sadness:   0.0359727
+   Neutral:   0.95719254
+
+A183.png
+   Happiness: 0.00377450651
+   Sadness:   0.08759264
+   Neutral:   0.9029839
+
+A184.png
+   Happiness: 0.00215209345
+   Sadness:   0.0387615375
+   Neutral:   0.952623
+
+A185.png
+   Happiness: 0.00234225043
+   Sadness:   0.055985298
+   Neutral:   0.936984241
+
+A186.png
+   Happiness: 0.00117146038
+   Sadness:   0.0534803942
+   Neutral:   0.942873
+
+A187.png
+   Happiness: 0.000798801659
+   Sadness:   0.0631728843
+   Neutral:   0.9341713
+
+A188.png
+   Happiness: 0.002193687
+   Sadness:   0.08947068
+   Neutral:   0.9055413
+
+A189.png
+   Happiness: 0.000628096634
+   Sadness:   0.05122393
+   Neutral:   0.9466966
+
+A19.png
+   Happiness: 0.9999804
+   Sadness:   3.185921e-13
+   Neutral:   1.59607753e-05
+
+A190.png
+   Happiness: 0.00075498654
+   Sadness:   0.0717413
+   Neutral:   0.9251979
+
+A191.png
+   Happiness: 0.00116075075
+   Sadness:   0.106269829
+   Neutral:   0.8900673
+
+A192.png
+   Happiness: 0.00177091837
+   Sadness:   0.07044288
+   Neutral:   0.924904346
+
+A193.png
+   Happiness: 0.0020324653
+   Sadness:   0.1513441
+   Neutral:   0.843596041
+
+A194.png
+   Happiness: 0.0007906255
+   Sadness:   0.102225892
+   Neutral:   0.8950588
+
+A195.png
+   Happiness: 0.0006399413
+   Sadness:   0.193090633
+   Neutral:   0.804231346
+
+A196.png
+   Happiness: 0.00128243212
+   Sadness:   0.153308257
+   Neutral:   0.8416899
+
+A197.png
+   Happiness: 0.00239304756
+   Sadness:   0.101271309
+   Neutral:   0.8903113
+
+A198.png
+   Happiness: 0.00115884619
+   Sadness:   0.228494912
+   Neutral:   0.7651611
+
+A199.png
+   Happiness: 0.00119637768
+   Sadness:   0.0997164
+   Neutral:   0.891701
+
+A2.png
+   Happiness: 0.9999994
+   Sadness:   2.670732e-15
+   Neutral:   5.7712424e-07
+
+A20.png
+   Happiness: 0.999956667
+   Sadness:   2.27005029e-11
+   Neutral:   3.52287461e-05
+
+A200.png
+   Happiness: 0.00176712032
+   Sadness:   0.108780913
+   Neutral:   0.8866209
+
+A201.png
+   Happiness: 1.0
+   Sadness:   6.04404677e-12
+   Neutral:   3.91654842e-09
+
+A202.png
+   Happiness: 1.0
+   Sadness:   5.79024e-12
+   Neutral:   1.16358772e-08
+
+A203.png
+   Happiness: 1.0
+   Sadness:   3.6853858e-14
+   Neutral:   6.22849439e-10
+
+A204.png
+   Happiness: 1.0
+   Sadness:   7.05508638e-11
+   Neutral:   1.839681e-08
+
+A205.png
+   Happiness: 1.0
+   Sadness:   4.09172479e-14
+   Neutral:   1.24586819e-09
+
+A206.png
+   Happiness: 1.0
+   Sadness:   1.41778585e-11
+   Neutral:   2.56515822e-08
+
+A207.png
+   Happiness: 1.0
+   Sadness:   1.56226025e-13
+   Neutral:   4.93438845e-09
+
+A208.png
+   Happiness: 1.0
+   Sadness:   3.07449448e-11
+   Neutral:   1.56601132e-08
+
+A209.png
+   Happiness: 1.0
+   Sadness:   2.61079027e-13
+   Neutral:   4.740434e-09
+
+A21.png
+   Happiness: 0.9996351
+   Sadness:   2.21567042e-10
+   Neutral:   0.000270684541
+
+A210.png
+   Happiness: 0.99999994
+   Sadness:   6.242498e-12
+   Neutral:   3.77583156e-08
+
+A211.png
+   Happiness: 1.0
+   Sadness:   1.43452568e-11
+   Neutral:   1.52115742e-08
+
+A212.png
+   Happiness: 1.0
+   Sadness:   8.606784e-13
+   Neutral:   1.19235883e-08
+
+A213.png
+   Happiness: 0.99999994
+   Sadness:   1.28472309e-12
+   Neutral:   3.50963454e-08
+
+A214.png
+   Happiness: 0.999999642
+   Sadness:   1.438509e-11
+   Neutral:   2.998757e-07
+
+A215.png
+   Happiness: 0.9999998
+   Sadness:   5.28720054e-11
+   Neutral:   1.35318331e-07
+
+A216.png
+   Happiness: 1.0
+   Sadness:   2.55850625e-13
+   Neutral:   1.99837977e-08
+
+A217.png
+   Happiness: 0.99999994
+   Sadness:   3.0135993e-13
+   Neutral:   4.83898823e-08
+
+A218.png
+   Happiness: 0.99999994
+   Sadness:   3.261823e-13
+   Neutral:   3.205815e-08
+
+A219.png
+   Happiness: 0.99999994
+   Sadness:   4.390569e-13
+   Neutral:   3.336879e-08
+
+A22.png
+   Happiness: 0.9996568
+   Sadness:   2.40303055e-10
+   Neutral:   0.00025657998
+
+A220.png
+   Happiness: 0.9999999
+   Sadness:   5.450019e-12
+   Neutral:   6.625501e-08
+
+A221.png
+   Happiness: 0.99999994
+   Sadness:   7.14134643e-13
+   Neutral:   6.98086e-08
+
+A222.png
+   Happiness: 0.999999762
+   Sadness:   4.203214e-12
+   Neutral:   2.17158927e-07
+
+A223.png
+   Happiness: 0.9999994
+   Sadness:   2.54482165e-11
+   Neutral:   3.45049415e-07
+
+A224.png
+   Happiness: 0.9999998
+   Sadness:   2.36830022e-12
+   Neutral:   1.38494016e-07
+
+A225.png
+   Happiness: 0.9999995
+   Sadness:   3.5768272e-12
+   Neutral:   2.76987578e-07
+
+A226.png
+   Happiness: 0.999997735
+   Sadness:   1.75078129e-11
+   Neutral:   9.476684e-07
+
+A227.png
+   Happiness: 0.9999979
+   Sadness:   1.6098468e-11
+   Neutral:   9.667026e-07
+
+A228.png
+   Happiness: 0.9999982
+   Sadness:   1.20938667e-11
+   Neutral:   7.941029e-07
+
+A229.png
+   Happiness: 0.9999989
+   Sadness:   2.75595475e-12
+   Neutral:   6.043664e-07
+
+A23.png
+   Happiness: 0.999753654
+   Sadness:   9.90055538e-11
+   Neutral:   0.000174227956
+
+A230.png
+   Happiness: 0.9999942
+   Sadness:   2.526085e-10
+   Neutral:   5.26767644e-06
+
+A231.png
+   Happiness: 0.9999971
+   Sadness:   3.61490867e-13
+   Neutral:   2.19032859e-06
+
+A232.png
+   Happiness: 0.999994159
+   Sadness:   5.485529e-12
+   Neutral:   4.168235e-06
+
+A233.png
+   Happiness: 0.9999893
+   Sadness:   3.55520585e-10
+   Neutral:   8.62608249e-06
+
+A234.png
+   Happiness: 0.9999634
+   Sadness:   7.002174e-10
+   Neutral:   2.339748e-05
+
+A235.png
+   Happiness: 0.9999731
+   Sadness:   4.19605767e-10
+   Neutral:   1.8018929e-05
+
+A236.png
+   Happiness: 0.999771237
+   Sadness:   8.384174e-09
+   Neutral:   0.000158243871
+
+A237.png
+   Happiness: 0.9997997
+   Sadness:   1.54825983e-08
+   Neutral:   0.000134193047
+
+A238.png
+   Happiness: 0.9998373
+   Sadness:   1.77701753e-09
+   Neutral:   0.000130936955
+
+A239.png
+   Happiness: 0.9995698
+   Sadness:   3.09932857e-09
+   Neutral:   0.00037253878
+
+A24.png
+   Happiness: 0.9998656
+   Sadness:   8.105585e-11
+   Neutral:   9.780664e-05
+
+A240.png
+   Happiness: 0.9996875
+   Sadness:   4.730238e-09
+   Neutral:   0.000205192177
+
+A241.png
+   Happiness: 0.998800159
+   Sadness:   1.72335373e-08
+   Neutral:   0.00109520752
+
+A242.png
+   Happiness: 0.9994322
+   Sadness:   1.46878754e-09
+   Neutral:   0.0004704132
+
+A243.png
+   Happiness: 0.9986208
+   Sadness:   2.774114e-07
+   Neutral:   0.000741535
+
+A244.png
+   Happiness: 0.990969837
+   Sadness:   7.77151456e-07
+   Neutral:   0.006857213
+
+A245.png
+   Happiness: 0.997400761
+   Sadness:   2.556953e-05
+   Neutral:   0.00150900241
+
+A246.png
+   Happiness: 0.9973145
+   Sadness:   1.3719972e-07
+   Neutral:   0.00169404852
+
+A247.png
+   Happiness: 0.989998341
+   Sadness:   1.19447668e-06
+   Neutral:   0.007850741
+
+A248.png
+   Happiness: 0.988415956
+   Sadness:   3.23595214e-06
+   Neutral:   0.007788701
+
+A249.png
+   Happiness: 0.962716043
+   Sadness:   5.8452737e-05
+   Neutral:   0.0206862334
+
+A25.png
+   Happiness: 0.9994803
+   Sadness:   1.81515436e-09
+   Neutral:   0.000370425929
+
+A250.png
+   Happiness: 0.968561947
+   Sadness:   1.37404295e-05
+   Neutral:   0.0214649513
+
+A251.png
+   Happiness: 0.953468561
+   Sadness:   2.81041666e-05
+   Neutral:   0.03166043
+
+A252.png
+   Happiness: 0.9457241
+   Sadness:   0.000152418215
+   Neutral:   0.02142277
+
+A253.png
+   Happiness: 0.9262323
+   Sadness:   5.92561337e-05
+   Neutral:   0.0477072559
+
+A254.png
+   Happiness: 0.8688368
+   Sadness:   0.000325808331
+   Neutral:   0.08334515
+
+A255.png
+   Happiness: 0.83046484
+   Sadness:   0.00267477822
+   Neutral:   0.07624557
+
+A256.png
+   Happiness: 0.7940466
+   Sadness:   0.00315940264
+   Neutral:   0.105480537
+
+A257.png
+   Happiness: 0.831055
+   Sadness:   0.00359654846
+   Neutral:   0.100216694
+
+A258.png
+   Happiness: 0.78426373
+   Sadness:   0.00408041431
+   Neutral:   0.09613679
+
+A259.png
+   Happiness: 0.597743034
+   Sadness:   0.0284655187
+   Neutral:   0.146802992
+
+A26.png
+   Happiness: 0.9994934
+   Sadness:   1.2061151e-09
+   Neutral:   0.000394267379
+
+A260.png
+   Happiness: 0.798501253
+   Sadness:   0.00371114141
+   Neutral:   0.08913342
+
+A261.png
+   Happiness: 0.709911
+   Sadness:   0.0110041276
+   Neutral:   0.114248894
+
+A262.png
+   Happiness: 0.580441952
+   Sadness:   0.0100157652
+   Neutral:   0.1635308
+
+A263.png
+   Happiness: 0.6590636
+   Sadness:   0.00264464063
+   Neutral:   0.212298065
+
+A264.png
+   Happiness: 0.5987059
+   Sadness:   0.0258059949
+   Neutral:   0.142793879
+
+A265.png
+   Happiness: 0.3470742
+   Sadness:   0.127845466
+   Neutral:   0.189383537
+
+A266.png
+   Happiness: 0.5061657
+   Sadness:   0.07431616
+   Neutral:   0.177667737
+
+A267.png
+   Happiness: 0.487031251
+   Sadness:   0.0495259278
+   Neutral:   0.225707307
+
+A268.png
+   Happiness: 0.488518864
+   Sadness:   0.009645388
+   Neutral:   0.259679884
+
+A269.png
+   Happiness: 0.4151279
+   Sadness:   0.0155627169
+   Neutral:   0.2771855
+
+A27.png
+   Happiness: 0.999859333
+   Sadness:   1.35168071e-10
+   Neutral:   9.461585e-05
+
+A270.png
+   Happiness: 0.317630231
+   Sadness:   0.0432339944
+   Neutral:   0.3239085
+
+A271.png
+   Happiness: 0.213032663
+   Sadness:   0.03361852
+   Neutral:   0.403585255
+
+A272.png
+   Happiness: 0.2933675
+   Sadness:   0.04556405
+   Neutral:   0.372825056
+
+A273.png
+   Happiness: 0.281865448
+   Sadness:   0.04784988
+   Neutral:   0.3821157
+
+A274.png
+   Happiness: 0.216829628
+   Sadness:   0.0322428942
+   Neutral:   0.439299464
+
+A275.png
+   Happiness: 0.133019239
+   Sadness:   0.08726802
+   Neutral:   0.3543528
+
+A276.png
+   Happiness: 0.127153173
+   Sadness:   0.02986433
+   Neutral:   0.4293886
+
+A277.png
+   Happiness: 0.05569531
+   Sadness:   0.06289565
+   Neutral:   0.466879785
+
+A278.png
+   Happiness: 0.07960357
+   Sadness:   0.0832277
+   Neutral:   0.522904754
+
+A279.png
+   Happiness: 0.0558616668
+   Sadness:   0.0354589038
+   Neutral:   0.5217828
+
+A28.png
+   Happiness: 0.998675048
+   Sadness:   3.08010217e-09
+   Neutral:   0.000884657551
+
+A280.png
+   Happiness: 0.09912488
+   Sadness:   0.0226951577
+   Neutral:   0.5759156
+
+A281.png
+   Happiness: 0.0266389381
+   Sadness:   0.139494747
+   Neutral:   0.511413932
+
+A282.png
+   Happiness: 0.0634868443
+   Sadness:   0.0566719659
+   Neutral:   0.559812
+
+A283.png
+   Happiness: 0.0483404957
+   Sadness:   0.0542015545
+   Neutral:   0.518347859
+
+A284.png
+   Happiness: 0.02648085
+   Sadness:   0.0517880321
+   Neutral:   0.631538868
+
+A285.png
+   Happiness: 0.0203342121
+   Sadness:   0.0362476148
+   Neutral:   0.6533615
+
+A286.png
+   Happiness: 0.0917122662
+   Sadness:   0.02184484
+   Neutral:   0.6808912
+
+A287.png
+   Happiness: 0.0100351591
+   Sadness:   0.0339979157
+   Neutral:   0.715600252
+
+A288.png
+   Happiness: 0.00751473568
+   Sadness:   0.0517099
+   Neutral:   0.7899401
+
+A289.png
+   Happiness: 0.005896212
+   Sadness:   0.365711927
+   Neutral:   0.505412161
+
+A29.png
+   Happiness: 0.999403059
+   Sadness:   4.633192e-09
+   Neutral:   0.000415263872
+
+A290.png
+   Happiness: 0.0221155751
+   Sadness:   0.07212437
+   Neutral:   0.6959473
+
+A291.png
+   Happiness: 0.00905018
+   Sadness:   0.0552545972
+   Neutral:   0.8605874
+
+A292.png
+   Happiness: 0.008233743
+   Sadness:   0.124289475
+   Neutral:   0.7554504
+
+A293.png
+   Happiness: 0.00742824655
+   Sadness:   0.011639691
+   Neutral:   0.91398716
+
+A294.png
+   Happiness: 0.00617725262
+   Sadness:   0.102738045
+   Neutral:   0.8021972
+
+A295.png
+   Happiness: 0.00627748668
+   Sadness:   0.109448478
+   Neutral:   0.8219705
+
+A296.png
+   Happiness: 0.003502753
+   Sadness:   0.127791822
+   Neutral:   0.749309957
+
+A297.png
+   Happiness: 0.00148316682
+   Sadness:   0.122353986
+   Neutral:   0.8156018
+
+A298.png
+   Happiness: 0.00453146175
+   Sadness:   0.114672892
+   Neutral:   0.797533154
+
+A299.png
+   Happiness: 0.0057064686
+   Sadness:   0.157122284
+   Neutral:   0.7441631
+
+A3.png
+   Happiness: 0.9999965
+   Sadness:   6.902303e-14
+   Neutral:   2.89825e-06
+
+A30.png
+   Happiness: 0.9979364
+   Sadness:   1.01523852e-07
+   Neutral:   0.00169363129
+
+A300.png
+   Happiness: 0.005288166
+   Sadness:   0.199817926
+   Neutral:   0.717521
+
+A301.png
+   Happiness: 0.00271903235
+   Sadness:   0.00639999937
+   Neutral:   0.989622951
+
+A302.png
+   Happiness: 0.00161207432
+   Sadness:   0.005700396
+   Neutral:   0.990271032
+
+A303.png
+   Happiness: 0.00257804524
+   Sadness:   0.0207550116
+   Neutral:   0.972922862
+
+A304.png
+   Happiness: 0.00286336942
+   Sadness:   0.00717613753
+   Neutral:   0.985147834
+
+A305.png
+   Happiness: 0.00407895632
+   Sadness:   0.0205056947
+   Neutral:   0.968411744
+
+A306.png
+   Happiness: 0.00292219385
+   Sadness:   0.007951956
+   Neutral:   0.9846889
+
+A307.png
+   Happiness: 0.004467478
+   Sadness:   0.0178155117
+   Neutral:   0.9701972
+
+A308.png
+   Happiness: 0.00272524846
+   Sadness:   0.00698216725
+   Neutral:   0.985363
+
+A309.png
+   Happiness: 0.01062664
+   Sadness:   0.0108499229
+   Neutral:   0.9730271
+
+A31.png
+   Happiness: 0.99686116
+   Sadness:   6.892609e-08
+   Neutral:   0.00224956218
+
+A310.png
+   Happiness: 0.00170160783
+   Sadness:   0.0157524738
+   Neutral:   0.9697833
+
+A311.png
+   Happiness: 0.004738647
+   Sadness:   0.019621769
+   Neutral:   0.9657027
+
+A312.png
+   Happiness: 0.00364365685
+   Sadness:   0.0100184847
+   Neutral:   0.975948155
+
+A313.png
+   Happiness: 0.003795225
+   Sadness:   0.005447297
+   Neutral:   0.9855055
+
+A314.png
+   Happiness: 0.0017875483
+   Sadness:   0.0198182426
+   Neutral:   0.9680801
+
+A315.png
+   Happiness: 0.0007160172
+   Sadness:   0.0301959049
+   Neutral:   0.9572853
+
+A316.png
+   Happiness: 0.0017737553
+   Sadness:   0.00769834872
+   Neutral:   0.982355654
+
+A317.png
+   Happiness: 0.00255376915
+   Sadness:   0.00256683724
+   Neutral:   0.989605367
+
+A318.png
+   Happiness: 0.00254042656
+   Sadness:   0.00377122243
+   Neutral:   0.989832938
+
+A319.png
+   Happiness: 0.0101514077
+   Sadness:   0.00440103142
+   Neutral:   0.979375362
+
+A32.png
+   Happiness: 0.998517931
+   Sadness:   2.516022e-07
+   Neutral:   0.00110364961
+
+A320.png
+   Happiness: 0.00191933569
+   Sadness:   0.00150193344
+   Neutral:   0.991831243
+
+A321.png
+   Happiness: 0.00855636
+   Sadness:   0.002694356
+   Neutral:   0.9810711
+
+A322.png
+   Happiness: 0.00109784771
+   Sadness:   0.00268817181
+   Neutral:   0.9926873
+
+A323.png
+   Happiness: 0.00172162044
+   Sadness:   0.000481839175
+   Neutral:   0.9953523
+
+A324.png
+   Happiness: 0.00228253077
+   Sadness:   0.00112057489
+   Neutral:   0.9883029
+
+A325.png
+   Happiness: 0.00332185649
+   Sadness:   0.00193504745
+   Neutral:   0.9705587
+
+A326.png
+   Happiness: 0.0026847485
+   Sadness:   0.0003467866
+   Neutral:   0.9928367
+
+A327.png
+   Happiness: 0.0104290163
+   Sadness:   0.00161206664
+   Neutral:   0.973818064
+
+A328.png
+   Happiness: 0.0101723727
+   Sadness:   0.00048267
+   Neutral:   0.9817275
+
+A329.png
+   Happiness: 0.007986777
+   Sadness:   0.000534160936
+   Neutral:   0.983188033
+
+A33.png
+   Happiness: 0.9903527
+   Sadness:   8.898547e-06
+   Neutral:   0.007606626
+
+A330.png
+   Happiness: 0.0208195336
+   Sadness:   0.000444704376
+   Neutral:   0.9708695
+
+A331.png
+   Happiness: 0.03023617
+   Sadness:   0.00136953022
+   Neutral:   0.900948465
+
+A332.png
+   Happiness: 0.0336877555
+   Sadness:   0.00137598231
+   Neutral:   0.9332814
+
+A333.png
+   Happiness: 0.0131495008
+   Sadness:   0.00205138
+   Neutral:   0.9674443
+
+A334.png
+   Happiness: 0.0167893488
+   Sadness:   0.00204318552
+   Neutral:   0.950256169
+
+A335.png
+   Happiness: 0.013726769
+   Sadness:   0.0002599292
+   Neutral:   0.9767707
+
+A336.png
+   Happiness: 0.006415198
+   Sadness:   0.00060979405
+   Neutral:   0.979555547
+
+A337.png
+   Happiness: 0.00820715353
+   Sadness:   0.000236141044
+   Neutral:   0.988711238
+
+A338.png
+   Happiness: 0.0191550236
+   Sadness:   0.0007404718
+   Neutral:   0.973941565
+
+A339.png
+   Happiness: 0.00246020337
+   Sadness:   0.0009474062
+   Neutral:   0.992850065
+
+A34.png
+   Happiness: 0.9964654
+   Sadness:   4.227907e-07
+   Neutral:   0.00262371078
+
+A340.png
+   Happiness: 0.003415739
+   Sadness:   0.000133464026
+   Neutral:   0.994586349
+
+A341.png
+   Happiness: 0.0106229018
+   Sadness:   0.002569169
+   Neutral:   0.9802053
+
+A342.png
+   Happiness: 0.0141735226
+   Sadness:   0.00388096436
+   Neutral:   0.9788721
+
+A343.png
+   Happiness: 0.0118919378
+   Sadness:   0.003265817
+   Neutral:   0.9787538
+
+A344.png
+   Happiness: 0.00901659
+   Sadness:   0.00676795561
+   Neutral:   0.9759296
+
+A345.png
+   Happiness: 0.010598978
+   Sadness:   0.00212366832
+   Neutral:   0.983866036
+
+A346.png
+   Happiness: 0.0318568274
+   Sadness:   0.00186272629
+   Neutral:   0.9462259
+
+A347.png
+   Happiness: 0.0172630381
+   Sadness:   0.0036114722
+   Neutral:   0.972101331
+
+A348.png
+   Happiness: 0.0155186215
+   Sadness:   0.00304370443
+   Neutral:   0.969848752
+
+A349.png
+   Happiness: 0.0181800183
+   Sadness:   0.004773788
+   Neutral:   0.97050947
+
+A35.png
+   Happiness: 0.9961349
+   Sadness:   1.7545126e-06
+   Neutral:   0.00280430634
+
+A350.png
+   Happiness: 0.07546119
+   Sadness:   0.00403127447
+   Neutral:   0.906831861
+
+A351.png
+   Happiness: 0.0236287024
+   Sadness:   0.00348875881
+   Neutral:   0.9671092
+
+A352.png
+   Happiness: 0.051195927
+   Sadness:   0.006888314
+   Neutral:   0.9320565
+
+A353.png
+   Happiness: 0.191317737
+   Sadness:   0.00261668232
+   Neutral:   0.786791146
+
+A354.png
+   Happiness: 0.0848043
+   Sadness:   0.002395484
+   Neutral:   0.905656457
+
+A355.png
+   Happiness: 0.04717335
+   Sadness:   0.000879010069
+   Neutral:   0.9468003
+
+A356.png
+   Happiness: 0.1120219
+   Sadness:   0.00407320075
+   Neutral:   0.871464133
+
+A357.png
+   Happiness: 0.120040692
+   Sadness:   0.00271453965
+   Neutral:   0.873748243
+
+A358.png
+   Happiness: 0.260808855
+   Sadness:   0.00101337174
+   Neutral:   0.734657645
+
+A359.png
+   Happiness: 0.129344925
+   Sadness:   0.00137263082
+   Neutral:   0.8639248
+
+A36.png
+   Happiness: 0.9959648
+   Sadness:   2.45261526e-06
+   Neutral:   0.00323843281
+
+A360.png
+   Happiness: 0.284029126
+   Sadness:   0.00178437552
+   Neutral:   0.7061833
+
+A361.png
+   Happiness: 0.257586032
+   Sadness:   0.00162130746
+   Neutral:   0.735336244
+
+A362.png
+   Happiness: 0.130147412
+   Sadness:   0.00157831539
+   Neutral:   0.8512486
+
+A363.png
+   Happiness: 0.184666231
+   Sadness:   0.00226939353
+   Neutral:   0.7954384
+
+A364.png
+   Happiness: 0.285965443
+   Sadness:   0.008065737
+   Neutral:   0.6560557
+
+A365.png
+   Happiness: 0.06869312
+   Sadness:   0.0017695697
+   Neutral:   0.923451066
+
+A366.png
+   Happiness: 0.0832076445
+   Sadness:   0.00188262982
+   Neutral:   0.901212156
+
+A367.png
+   Happiness: 0.18991369
+   Sadness:   0.007593643
+   Neutral:   0.7551548
+
+A368.png
+   Happiness: 0.152041823
+   Sadness:   0.00330892042
+   Neutral:   0.8254968
+
+A369.png
+   Happiness: 0.0308947135
+   Sadness:   0.0206524134
+   Neutral:   0.9044806
+
+A37.png
+   Happiness: 0.99273777
+   Sadness:   2.21416358e-05
+   Neutral:   0.005268555
+
+A370.png
+   Happiness: 0.245182082
+   Sadness:   0.0052211564
+   Neutral:   0.720997334
+
+A371.png
+   Happiness: 0.246452972
+   Sadness:   0.00250388938
+   Neutral:   0.714118063
+
+A372.png
+   Happiness: 0.263742745
+   Sadness:   0.00178580685
+   Neutral:   0.709645152
+
+A373.png
+   Happiness: 0.0354971066
+   Sadness:   0.00498747872
+   Neutral:   0.951678753
+
+A374.png
+   Happiness: 0.0177721772
+   Sadness:   0.005354578
+   Neutral:   0.9715197
+
+A375.png
+   Happiness: 0.0455743521
+   Sadness:   0.00366529869
+   Neutral:   0.942652166
+
+A376.png
+   Happiness: 0.0534490161
+   Sadness:   0.00149255688
+   Neutral:   0.938852
+
+A377.png
+   Happiness: 0.140587822
+   Sadness:   0.00134755683
+   Neutral:   0.8518658
+
+A378.png
+   Happiness: 0.04577076
+   Sadness:   0.0004224388
+   Neutral:   0.952717662
+
+A379.png
+   Happiness: 0.104095921
+   Sadness:   0.00090499717
+   Neutral:   0.8933502
+
+A38.png
+   Happiness: 0.985735834
+   Sadness:   6.906989e-05
+   Neutral:   0.008390288
+
+A380.png
+   Happiness: 0.0394929647
+   Sadness:   0.0006593567
+   Neutral:   0.9583393
+
+A381.png
+   Happiness: 0.00313624484
+   Sadness:   0.00112635188
+   Neutral:   0.994834363
+
+A382.png
+   Happiness: 0.0274245646
+   Sadness:   0.0002785333
+   Neutral:   0.971471965
+
+A383.png
+   Happiness: 0.0125615541
+   Sadness:   0.00105660071
+   Neutral:   0.985872746
+
+A384.png
+   Happiness: 0.0531806238
+   Sadness:   0.0006234991
+   Neutral:   0.9440562
+
+A385.png
+   Happiness: 0.07864739
+   Sadness:   0.0018324838
+   Neutral:   0.9183809
+
+A386.png
+   Happiness: 0.266902179
+   Sadness:   0.00105963543
+   Neutral:   0.7276038
+
+A387.png
+   Happiness: 0.0626286939
+   Sadness:   0.000454414
+   Neutral:   0.9361406
+
+A388.png
+   Happiness: 0.172148123
+   Sadness:   0.0006534136
+   Neutral:   0.8248017
+
+A389.png
+   Happiness: 0.09281445
+   Sadness:   0.000295578822
+   Neutral:   0.905706048
+
+A39.png
+   Happiness: 0.9750226
+   Sadness:   0.002477388
+   Neutral:   0.01755208
+
+A390.png
+   Happiness: 0.1892161
+   Sadness:   0.000204221476
+   Neutral:   0.809761345
+
+A391.png
+   Happiness: 0.04398537
+   Sadness:   0.000341472565
+   Neutral:   0.9540277
+
+A392.png
+   Happiness: 0.274856836
+   Sadness:   0.00161509577
+   Neutral:   0.7211816
+
+A393.png
+   Happiness: 0.08124533
+   Sadness:   0.0008245325
+   Neutral:   0.91572535
+
+A394.png
+   Happiness: 0.100286044
+   Sadness:   0.000451653585
+   Neutral:   0.8957957
+
+A395.png
+   Happiness: 0.3583406
+   Sadness:   0.00013362609
+   Neutral:   0.6397281
+
+A396.png
+   Happiness: 0.387859046
+   Sadness:   0.000450389925
+   Neutral:   0.608605444
+
+A397.png
+   Happiness: 0.302472651
+   Sadness:   0.0009111084
+   Neutral:   0.694583654
+
+A398.png
+   Happiness: 0.2293641
+   Sadness:   0.000176201414
+   Neutral:   0.7692783
+
+A399.png
+   Happiness: 0.0615414679
+   Sadness:   0.00237352983
+   Neutral:   0.934314847
+
+A4.png
+   Happiness: 0.9999943
+   Sadness:   7.311606e-13
+   Neutral:   4.16817238e-06
+
+A40.png
+   Happiness: 0.9672862
+   Sadness:   0.0135519067
+   Neutral:   0.0137488917
+
+A400.png
+   Happiness: 0.166180983
+   Sadness:   0.00353170256
+   Neutral:   0.8282183
+
+A41.png
+   Happiness: 0.8723144
+   Sadness:   0.06960167
+   Neutral:   0.0325064622
+
+A42.png
+   Happiness: 0.957787633
+   Sadness:   0.0159128383
+   Neutral:   0.019267099
+
+A43.png
+   Happiness: 0.8831154
+   Sadness:   0.07762279
+   Neutral:   0.0331664979
+
+A44.png
+   Happiness: 0.6823743
+   Sadness:   0.2028451
+   Neutral:   0.0619526431
+
+A45.png
+   Happiness: 0.8267924
+   Sadness:   0.125926048
+   Neutral:   0.0422391966
+
+A46.png
+   Happiness: 0.444775015
+   Sadness:   0.498203278
+   Neutral:   0.03623557
+
+A47.png
+   Happiness: 0.6670385
+   Sadness:   0.222508967
+   Neutral:   0.07760266
+
+A48.png
+   Happiness: 0.309455127
+   Sadness:   0.5945639
+   Neutral:   0.05195514
+
+A49.png
+   Happiness: 0.3246983
+   Sadness:   0.5642311
+   Neutral:   0.0731318742
+
+A5.png
+   Happiness: 0.9999984
+   Sadness:   1.140458e-15
+   Neutral:   1.50579342e-06
+
+A50.png
+   Happiness: 0.231384113
+   Sadness:   0.702715039
+   Neutral:   0.0438011028
+
+A51.png
+   Happiness: 0.33061862
+   Sadness:   0.53564173
+   Neutral:   0.08911804
+
+A52.png
+   Happiness: 0.1666307
+   Sadness:   0.7396453
+   Neutral:   0.07188115
+
+A53.png
+   Happiness: 0.123727933
+   Sadness:   0.7705427
+   Neutral:   0.06970391
+
+A54.png
+   Happiness: 0.0179105084
+   Sadness:   0.9690315
+   Neutral:   0.009090083
+
+A55.png
+   Happiness: 0.08633947
+   Sadness:   0.7608471
+   Neutral:   0.123755574
+
+A56.png
+   Happiness: 0.0872570053
+   Sadness:   0.787313759
+   Neutral:   0.111048885
+
+A57.png
+   Happiness: 0.009134272
+   Sadness:   0.959889948
+   Neutral:   0.02199967
+
+A58.png
+   Happiness: 0.007717948
+   Sadness:   0.97741425
+   Neutral:   0.009426209
+
+A59.png
+   Happiness: 0.00106665993
+   Sadness:   0.985537767
+   Neutral:   0.00962114
+
+A6.png
+   Happiness: 0.999999762
+   Sadness:   1.803086e-16
+   Neutral:   2.11154784e-07
+
+A60.png
+   Happiness: 0.00149045291
+   Sadness:   0.9909615
+   Neutral:   0.006317891
+
+A61.png
+   Happiness: 0.0003681983
+   Sadness:   0.9914178
+   Neutral:   0.00506439572
+
+A62.png
+   Happiness: 1.26725927e-05
+   Sadness:   0.9975527
+   Neutral:   0.00100700825
+
+A63.png
+   Happiness: 5.82446228e-05
+   Sadness:   0.995914757
+   Neutral:   0.00343798031
+
+A64.png
+   Happiness: 1.19677288e-05
+   Sadness:   0.996934831
+   Neutral:   0.00106254849
+
+A65.png
+   Happiness: 5.18546e-06
+   Sadness:   0.998872459
+   Neutral:   0.00074143894
+
+A66.png
+   Happiness: 7.58980559e-06
+   Sadness:   0.9990404
+   Neutral:   0.0005761726
+
+A67.png
+   Happiness: 2.434722e-06
+   Sadness:   0.999399662
+   Neutral:   0.000285569346
+
+A68.png
+   Happiness: 1.28283082e-05
+   Sadness:   0.9972883
+   Neutral:   0.00197844487
+
+A69.png
+   Happiness: 1.45720915e-05
+   Sadness:   0.9969165
+   Neutral:   0.001891437
+
+A7.png
+   Happiness: 0.9999981
+   Sadness:   4.963134e-15
+   Neutral:   1.707433e-06
+
+A70.png
+   Happiness: 7.43034252e-05
+   Sadness:   0.993633866
+   Neutral:   0.00583953969
+
+A71.png
+   Happiness: 2.16805951e-08
+   Sadness:   0.9994075
+   Neutral:   2.96394446e-05
+
+A72.png
+   Happiness: 1.70462243e-07
+   Sadness:   0.9996902
+   Neutral:   0.000158298659
+
+A73.png
+   Happiness: 1.69385976e-06
+   Sadness:   0.998449564
+   Neutral:   0.000805709045
+
+A74.png
+   Happiness: 1.04867775e-06
+   Sadness:   0.997860432
+   Neutral:   0.0006245454
+
+A75.png
+   Happiness: 2.70258926e-08
+   Sadness:   0.9992672
+   Neutral:   0.000111630769
+
+A76.png
+   Happiness: 2.33602418e-06
+   Sadness:   0.997896433
+   Neutral:   0.0015861803
+
+A77.png
+   Happiness: 1.8944369e-05
+   Sadness:   0.986034155
+   Neutral:   0.0128938723
+
+A78.png
+   Happiness: 1.265192e-06
+   Sadness:   0.997776031
+   Neutral:   0.00141479773
+
+A79.png
+   Happiness: 2.065598e-06
+   Sadness:   0.9954375
+   Neutral:   0.00228448957
+
+A8.png
+   Happiness: 0.999997854
+   Sadness:   1.22614939e-14
+   Neutral:   1.88149613e-06
+
+A80.png
+   Happiness: 2.347351e-06
+   Sadness:   0.995034158
+   Neutral:   0.00480301026
+
+A81.png
+   Happiness: 5.346426e-05
+   Sadness:   0.955710351
+   Neutral:   0.0439556725
+
+A82.png
+   Happiness: 4.33929984e-07
+   Sadness:   0.996652842
+   Neutral:   0.00271834084
+
+A83.png
+   Happiness: 7.635206e-06
+   Sadness:   0.9795955
+   Neutral:   0.0195059534
+
+A84.png
+   Happiness: 5.559183e-10
+   Sadness:   0.999637961
+   Neutral:   2.99351013e-05
+
+A85.png
+   Happiness: 7.500188e-08
+   Sadness:   0.9986653
+   Neutral:   0.000643246633
+
+A86.png
+   Happiness: 4.862613e-07
+   Sadness:   0.9937352
+   Neutral:   0.00512712449
+
+A87.png
+   Happiness: 1.27936588e-07
+   Sadness:   0.9975251
+   Neutral:   0.00185662648
+
+A88.png
+   Happiness: 2.65820518e-06
+   Sadness:   0.9941964
+   Neutral:   0.0051568537
+
+A89.png
+   Happiness: 1.44766247e-07
+   Sadness:   0.997828543
+   Neutral:   0.0019402965
+
+A9.png
+   Happiness: 0.999998331
+   Sadness:   1.06103912e-14
+   Neutral:   1.38166718e-06
+
+A90.png
+   Happiness: 2.92788144e-07
+   Sadness:   0.9928758
+   Neutral:   0.00568410754
+
+A91.png
+   Happiness: 1.23260167e-08
+   Sadness:   0.9990562
+   Neutral:   0.0005675248
+
+A92.png
+   Happiness: 7.018159e-07
+   Sadness:   0.973920763
+   Neutral:   0.0233762711
+
+A93.png
+   Happiness: 2.51201163e-06
+   Sadness:   0.987816
+   Neutral:   0.009672595
+
+A94.png
+   Happiness: 4.94101542e-08
+   Sadness:   0.9913428
+   Neutral:   0.008271887
+
+A95.png
+   Happiness: 9.984504e-07
+   Sadness:   0.9742628
+   Neutral:   0.01702398
+
+A96.png
+   Happiness: 2.20608982e-07
+   Sadness:   0.9850879
+   Neutral:   0.0121750394
+
+A97.png
+   Happiness: 2.61091077e-06
+   Sadness:   0.928604662
+   Neutral:   0.06604456
+
+A98.png
+   Happiness: 5.01943376e-08
+   Sadness:   0.9954156
+   Neutral:   0.00357297854
+
+A99.png
+   Happiness: 6.657763e-08
+   Sadness:   0.990462661
+   Neutral:   0.007369603
+
+B1.png
+   Happiness: 1.0
+   Sadness:   5.4934e-17
+   Neutral:   1.06663178e-09
+
+B10.png
+   Happiness: 1.0
+   Sadness:   1.82910015e-16
+   Neutral:   5.860648e-09
+
+B100.png
+   Happiness: 0.00176712032
+   Sadness:   0.108780913
+   Neutral:   0.8866209
+
+B11.png
+   Happiness: 1.0
+   Sadness:   1.56282492e-15
+   Neutral:   1.22964536e-08
+
+B12.png
+   Happiness: 1.0
+   Sadness:   2.28095131e-15
+   Neutral:   8.659891e-09
+
+B13.png
+   Happiness: 1.0
+   Sadness:   6.15640156e-17
+   Neutral:   9.067079e-09
+
+B14.png
+   Happiness: 1.0
+   Sadness:   1.59219049e-15
+   Neutral:   1.22920447e-08
+
+B15.png
+   Happiness: 1.0
+   Sadness:   1.07604392e-16
+   Neutral:   1.21298527e-08
+
+B16.png
+   Happiness: 0.9999998
+   Sadness:   2.916036e-14
+   Neutral:   1.71350322e-07
+
+B17.png
+   Happiness: 0.9999999
+   Sadness:   4.83098423e-15
+   Neutral:   1.3230526e-07
+
+B18.png
+   Happiness: 0.99999994
+   Sadness:   9.0251225e-15
+   Neutral:   8.82123459e-08
+
+B19.png
+   Happiness: 0.9999995
+   Sadness:   4.53912149e-14
+   Neutral:   4.739153e-07
+
+B2.png
+   Happiness: 1.0
+   Sadness:   5.94399167e-19
+   Neutral:   1.09609474e-10
+
+B20.png
+   Happiness: 0.9999993
+   Sadness:   1.38706063e-13
+   Neutral:   7.184756e-07
+
+B21.png
+   Happiness: 0.9999992
+   Sadness:   9.640121e-14
+   Neutral:   7.895155e-07
+
+B22.png
+   Happiness: 0.999999762
+   Sadness:   6.578536e-14
+   Neutral:   2.36864949e-07
+
+B23.png
+   Happiness: 0.9999975
+   Sadness:   1.99591659e-13
+   Neutral:   2.51137863e-06
+
+B24.png
+   Happiness: 0.9999978
+   Sadness:   2.27690615e-13
+   Neutral:   2.16959074e-06
+
+B25.png
+   Happiness: 0.9999935
+   Sadness:   9.765582e-13
+   Neutral:   6.433268e-06
+
+B26.png
+   Happiness: 0.999997258
+   Sadness:   7.718877e-13
+   Neutral:   2.74939543e-06
+
+B27.png
+   Happiness: 0.999924
+   Sadness:   3.00206041e-11
+   Neutral:   7.561813e-05
+
+B28.png
+   Happiness: 0.9999289
+   Sadness:   4.12126323e-12
+   Neutral:   7.054095e-05
+
+B29.png
+   Happiness: 0.999926567
+   Sadness:   3.65688729e-12
+   Neutral:   7.24194e-05
+
+B3.png
+   Happiness: 1.0
+   Sadness:   1.58692642e-16
+   Neutral:   7.858731e-10
+
+B30.png
+   Happiness: 0.9999399
+   Sadness:   2.39895569e-11
+   Neutral:   5.983625e-05
+
+B31.png
+   Happiness: 0.999762833
+   Sadness:   7.56510063e-11
+   Neutral:   0.0002361903
+
+B32.png
+   Happiness: 0.9990474
+   Sadness:   4.811432e-10
+   Neutral:   0.000944727333
+
+B33.png
+   Happiness: 0.9992517
+   Sadness:   3.262012e-10
+   Neutral:   0.0007387062
+
+B34.png
+   Happiness: 0.9976358
+   Sadness:   8.155629e-09
+   Neutral:   0.00225460622
+
+B35.png
+   Happiness: 0.9957852
+   Sadness:   2.28238477e-08
+   Neutral:   0.004010812
+
+B36.png
+   Happiness: 0.99668473
+   Sadness:   2.10929985e-09
+   Neutral:   0.00326135429
+
+B37.png
+   Happiness: 0.991934538
+   Sadness:   2.53820147e-08
+   Neutral:   0.007871319
+
+B38.png
+   Happiness: 0.980977058
+   Sadness:   1.48737641e-07
+   Neutral:   0.0187050961
+
+B39.png
+   Happiness: 0.983660936
+   Sadness:   8.819248e-08
+   Neutral:   0.016091235
+
+B4.png
+   Happiness: 1.0
+   Sadness:   2.97034535e-19
+   Neutral:   1.1971843e-10
+
+B40.png
+   Happiness: 0.983695
+   Sadness:   1.46634747e-07
+   Neutral:   0.0157783814
+
+B41.png
+   Happiness: 0.9716064
+   Sadness:   7.065657e-08
+   Neutral:   0.02797451
+
+B42.png
+   Happiness: 0.967595339
+   Sadness:   2.88544129e-07
+   Neutral:   0.03167722
+
+B43.png
+   Happiness: 0.982236266
+   Sadness:   1.77654925e-07
+   Neutral:   0.01743911
+
+B44.png
+   Happiness: 0.978249252
+   Sadness:   4.513331e-07
+   Neutral:   0.02127074
+
+B45.png
+   Happiness: 0.9740105
+   Sadness:   4.931372e-07
+   Neutral:   0.0255792458
+
+B46.png
+   Happiness: 0.9204572
+   Sadness:   1.25676115e-05
+   Neutral:   0.0769677162
+
+B47.png
+   Happiness: 0.8567394
+   Sadness:   5.22820956e-05
+   Neutral:   0.137026533
+
+B48.png
+   Happiness: 0.8332179
+   Sadness:   5.50541663e-05
+   Neutral:   0.16113095
+
+B49.png
+   Happiness: 0.818230152
+   Sadness:   5.78212348e-05
+   Neutral:   0.178888664
+
+B5.png
+   Happiness: 1.0
+   Sadness:   1.04372154e-16
+   Neutral:   1.51542268e-09
+
+B50.png
+   Happiness: 0.8173947
+   Sadness:   4.413131e-05
+   Neutral:   0.179780528
+
+B51.png
+   Happiness: 0.7767938
+   Sadness:   0.000248322816
+   Neutral:   0.211332425
+
+B52.png
+   Happiness: 0.809148848
+   Sadness:   6.00496242e-05
+   Neutral:   0.184288442
+
+B53.png
+   Happiness: 0.6449749
+   Sadness:   0.000280801178
+   Neutral:   0.35008502
+
+B54.png
+   Happiness: 0.680127144
+   Sadness:   0.0005738389
+   Neutral:   0.303612053
+
+B55.png
+   Happiness: 0.5768637
+   Sadness:   0.0009820659
+   Neutral:   0.412292659
+
+B56.png
+   Happiness: 0.5384865
+   Sadness:   0.0016985921
+   Neutral:   0.436543584
+
+B57.png
+   Happiness: 0.420056015
+   Sadness:   0.000962700869
+   Neutral:   0.572775245
+
+B58.png
+   Happiness: 0.469623357
+   Sadness:   0.0009548687
+   Neutral:   0.522269
+
+B59.png
+   Happiness: 0.330128938
+   Sadness:   0.000533598359
+   Neutral:   0.6646597
+
+B6.png
+   Happiness: 1.0
+   Sadness:   4.38311137e-18
+   Neutral:   2.059503e-09
+
+B60.png
+   Happiness: 0.309722543
+   Sadness:   0.000624936656
+   Neutral:   0.687691033
+
+B61.png
+   Happiness: 0.276333123
+   Sadness:   0.00228341576
+   Neutral:   0.7137591
+
+B62.png
+   Happiness: 0.111187972
+   Sadness:   0.00125562807
+   Neutral:   0.884866834
+
+B63.png
+   Happiness: 0.272624344
+   Sadness:   0.0010692497
+   Neutral:   0.723873258
+
+B64.png
+   Happiness: 0.1166275
+   Sadness:   0.00157497346
+   Neutral:   0.87905395
+
+B65.png
+   Happiness: 0.08816478
+   Sadness:   0.00167518563
+   Neutral:   0.908858657
+
+B66.png
+   Happiness: 0.09342647
+   Sadness:   0.006652523
+   Neutral:   0.895650864
+
+B67.png
+   Happiness: 0.081622906
+   Sadness:   0.006086748
+   Neutral:   0.9074169
+
+B68.png
+   Happiness: 0.04472637
+   Sadness:   0.009047379
+   Neutral:   0.9422161
+
+B69.png
+   Happiness: 0.0303662661
+   Sadness:   0.008187074
+   Neutral:   0.9533298
+
+B7.png
+   Happiness: 1.0
+   Sadness:   1.17427073e-17
+   Neutral:   1.22846322e-09
+
+B70.png
+   Happiness: 0.0208571274
+   Sadness:   0.00528884865
+   Neutral:   0.9697218
+
+B71.png
+   Happiness: 0.0144920954
+   Sadness:   0.0114457076
+   Neutral:   0.96918416
+
+B72.png
+   Happiness: 0.0107165687
+   Sadness:   0.0232443046
+   Neutral:   0.960000634
+
+B73.png
+   Happiness: 0.00664821966
+   Sadness:   0.022630142
+   Neutral:   0.9663468
+
+B74.png
+   Happiness: 0.0133962622
+   Sadness:   0.0113584008
+   Neutral:   0.9727139
+
+B75.png
+   Happiness: 0.00617558463
+   Sadness:   0.0205055941
+   Neutral:   0.9700283
+
+B76.png
+   Happiness: 0.005402289
+   Sadness:   0.0250275973
+   Neutral:   0.9662157
+
+B77.png
+   Happiness: 0.00471608248
+   Sadness:   0.0111789731
+   Neutral:   0.980876565
+
+B78.png
+   Happiness: 0.00405512145
+   Sadness:   0.0327705964
+   Neutral:   0.957888067
+
+B79.png
+   Happiness: 0.004810112
+   Sadness:   0.0274825338
+   Neutral:   0.962537766
+
+B8.png
+   Happiness: 1.0
+   Sadness:   7.53783567e-16
+   Neutral:   4.16920765e-09
+
+B80.png
+   Happiness: 0.00374373444
+   Sadness:   0.0441257544
+   Neutral:   0.9485674
+
+B81.png
+   Happiness: 0.00342408125
+   Sadness:   0.04581265
+   Neutral:   0.945277631
+
+B82.png
+   Happiness: 0.00313183526
+   Sadness:   0.0359727
+   Neutral:   0.95719254
+
+B83.png
+   Happiness: 0.00377450651
+   Sadness:   0.08759264
+   Neutral:   0.9029839
+
+B84.png
+   Happiness: 0.00215209345
+   Sadness:   0.0387615375
+   Neutral:   0.952623
+
+B85.png
+   Happiness: 0.00234225043
+   Sadness:   0.055985298
+   Neutral:   0.936984241
+
+B86.png
+   Happiness: 0.00117146038
+   Sadness:   0.0534803942
+   Neutral:   0.942873
+
+B87.png
+   Happiness: 0.000798801659
+   Sadness:   0.0631728843
+   Neutral:   0.9341713
+
+B88.png
+   Happiness: 0.002193687
+   Sadness:   0.08947068
+   Neutral:   0.9055413
+
+B89.png
+   Happiness: 0.000628096634
+   Sadness:   0.05122393
+   Neutral:   0.9466966
+
+B9.png
+   Happiness: 1.0
+   Sadness:   1.59785966e-17
+   Neutral:   4.38948966e-09
+
+B90.png
+   Happiness: 0.00075498654
+   Sadness:   0.0717413
+   Neutral:   0.9251979
+
+B91.png
+   Happiness: 0.00116075075
+   Sadness:   0.106269829
+   Neutral:   0.8900673
+
+B92.png
+   Happiness: 0.00177091837
+   Sadness:   0.07044288
+   Neutral:   0.924904346
+
+B93.png
+   Happiness: 0.0020324653
+   Sadness:   0.1513441
+   Neutral:   0.843596041
+
+B94.png
+   Happiness: 0.0007906255
+   Sadness:   0.102225892
+   Neutral:   0.8950588
+
+B95.png
+   Happiness: 0.0006399413
+   Sadness:   0.193090633
+   Neutral:   0.804231346
+
+B96.png
+   Happiness: 0.00128243212
+   Sadness:   0.153308257
+   Neutral:   0.8416899
+
+B97.png
+   Happiness: 0.00239304756
+   Sadness:   0.101271309
+   Neutral:   0.8903113
+
+B98.png
+   Happiness: 0.00115884619
+   Sadness:   0.228494912
+   Neutral:   0.7651611
+
+B99.png
+   Happiness: 0.00119637768
+   Sadness:   0.0997164
+   Neutral:   0.891701
+
+C1.png
+   Happiness: 1.0
+   Sadness:   6.04404677e-12
+   Neutral:   3.91654842e-09
+
+C10.png
+   Happiness: 0.99999994
+   Sadness:   6.242498e-12
+   Neutral:   3.77583156e-08
+
+C100.png
+   Happiness: 0.005288166
+   Sadness:   0.199817926
+   Neutral:   0.717521
+
+C11.png
+   Happiness: 1.0
+   Sadness:   1.43452568e-11
+   Neutral:   1.52115742e-08
+
+C12.png
+   Happiness: 1.0
+   Sadness:   8.606784e-13
+   Neutral:   1.19235883e-08
+
+C13.png
+   Happiness: 0.99999994
+   Sadness:   1.28472309e-12
+   Neutral:   3.50963454e-08
+
+C14.png
+   Happiness: 0.999999642
+   Sadness:   1.438509e-11
+   Neutral:   2.998757e-07
+
+C15.png
+   Happiness: 0.9999998
+   Sadness:   5.28720054e-11
+   Neutral:   1.35318331e-07
+
+C16.png
+   Happiness: 1.0
+   Sadness:   2.55850625e-13
+   Neutral:   1.99837977e-08
+
+C17.png
+   Happiness: 0.99999994
+   Sadness:   3.0135993e-13
+   Neutral:   4.83898823e-08
+
+C18.png
+   Happiness: 0.99999994
+   Sadness:   3.261823e-13
+   Neutral:   3.205815e-08
+
+C19.png
+   Happiness: 0.99999994
+   Sadness:   4.390569e-13
+   Neutral:   3.336879e-08
+
+C2.png
+   Happiness: 1.0
+   Sadness:   5.79024e-12
+   Neutral:   1.16358772e-08
+
+C20.png
+   Happiness: 0.9999999
+   Sadness:   5.450019e-12
+   Neutral:   6.625501e-08
+
+C21.png
+   Happiness: 0.99999994
+   Sadness:   7.14134643e-13
+   Neutral:   6.98086e-08
+
+C22.png
+   Happiness: 0.999999762
+   Sadness:   4.203214e-12
+   Neutral:   2.17158927e-07
+
+C23.png
+   Happiness: 0.9999994
+   Sadness:   2.54482165e-11
+   Neutral:   3.45049415e-07
+
+C24.png
+   Happiness: 0.9999998
+   Sadness:   2.36830022e-12
+   Neutral:   1.38494016e-07
+
+C25.png
+   Happiness: 0.9999995
+   Sadness:   3.5768272e-12
+   Neutral:   2.76987578e-07
+
+C26.png
+   Happiness: 0.999997735
+   Sadness:   1.75078129e-11
+   Neutral:   9.476684e-07
+
+C27.png
+   Happiness: 0.9999979
+   Sadness:   1.6098468e-11
+   Neutral:   9.667026e-07
+
+C28.png
+   Happiness: 0.9999982
+   Sadness:   1.20938667e-11
+   Neutral:   7.941029e-07
+
+C29.png
+   Happiness: 0.9999989
+   Sadness:   2.75595475e-12
+   Neutral:   6.043664e-07
+
+C3.png
+   Happiness: 1.0
+   Sadness:   3.6853858e-14
+   Neutral:   6.22849439e-10
+
+C30.png
+   Happiness: 0.9999942
+   Sadness:   2.526085e-10
+   Neutral:   5.26767644e-06
+
+C31.png
+   Happiness: 0.9999971
+   Sadness:   3.61490867e-13
+   Neutral:   2.19032859e-06
+
+C32.png
+   Happiness: 0.999994159
+   Sadness:   5.485529e-12
+   Neutral:   4.168235e-06
+
+C33.png
+   Happiness: 0.9999893
+   Sadness:   3.55520585e-10
+   Neutral:   8.62608249e-06
+
+C34.png
+   Happiness: 0.9999634
+   Sadness:   7.002174e-10
+   Neutral:   2.339748e-05
+
+C35.png
+   Happiness: 0.9999731
+   Sadness:   4.19605767e-10
+   Neutral:   1.8018929e-05
+
+C36.png
+   Happiness: 0.999771237
+   Sadness:   8.384174e-09
+   Neutral:   0.000158243871
+
+C37.png
+   Happiness: 0.9997997
+   Sadness:   1.54825983e-08
+   Neutral:   0.000134193047
+
+C38.png
+   Happiness: 0.9998373
+   Sadness:   1.77701753e-09
+   Neutral:   0.000130936955
+
+C39.png
+   Happiness: 0.9995698
+   Sadness:   3.09932857e-09
+   Neutral:   0.00037253878
+
+C4.png
+   Happiness: 1.0
+   Sadness:   7.05508638e-11
+   Neutral:   1.839681e-08
+
+C40.png
+   Happiness: 0.9996875
+   Sadness:   4.730238e-09
+   Neutral:   0.000205192177
+
+C41.png
+   Happiness: 0.998800159
+   Sadness:   1.72335373e-08
+   Neutral:   0.00109520752
+
+C42.png
+   Happiness: 0.9994322
+   Sadness:   1.46878754e-09
+   Neutral:   0.0004704132
+
+C43.png
+   Happiness: 0.9986208
+   Sadness:   2.774114e-07
+   Neutral:   0.000741535
+
+C44.png
+   Happiness: 0.990969837
+   Sadness:   7.77151456e-07
+   Neutral:   0.006857213
+
+C45.png
+   Happiness: 0.997400761
+   Sadness:   2.556953e-05
+   Neutral:   0.00150900241
+
+C46.png
+   Happiness: 0.9973145
+   Sadness:   1.3719972e-07
+   Neutral:   0.00169404852
+
+C47.png
+   Happiness: 0.989998341
+   Sadness:   1.19447668e-06
+   Neutral:   0.007850741
+
+C48.png
+   Happiness: 0.988415956
+   Sadness:   3.23595214e-06
+   Neutral:   0.007788701
+
+C49.png
+   Happiness: 0.962716043
+   Sadness:   5.8452737e-05
+   Neutral:   0.0206862334
+
+C5.png
+   Happiness: 1.0
+   Sadness:   4.09172479e-14
+   Neutral:   1.24586819e-09
+
+C50.png
+   Happiness: 0.968561947
+   Sadness:   1.37404295e-05
+   Neutral:   0.0214649513
+
+C51.png
+   Happiness: 0.953468561
+   Sadness:   2.81041666e-05
+   Neutral:   0.03166043
+
+C52.png
+   Happiness: 0.9457241
+   Sadness:   0.000152418215
+   Neutral:   0.02142277
+
+C53.png
+   Happiness: 0.9262323
+   Sadness:   5.92561337e-05
+   Neutral:   0.0477072559
+
+C54.png
+   Happiness: 0.8688368
+   Sadness:   0.000325808331
+   Neutral:   0.08334515
+
+C55.png
+   Happiness: 0.83046484
+   Sadness:   0.00267477822
+   Neutral:   0.07624557
+
+C56.png
+   Happiness: 0.7940466
+   Sadness:   0.00315940264
+   Neutral:   0.105480537
+
+C57.png
+   Happiness: 0.831055
+   Sadness:   0.00359654846
+   Neutral:   0.100216694
+
+C58.png
+   Happiness: 0.78426373
+   Sadness:   0.00408041431
+   Neutral:   0.09613679
+
+C59.png
+   Happiness: 0.597743034
+   Sadness:   0.0284655187
+   Neutral:   0.146802992
+
+C6.png
+   Happiness: 1.0
+   Sadness:   1.41778585e-11
+   Neutral:   2.56515822e-08
+
+C60.png
+   Happiness: 0.798501253
+   Sadness:   0.00371114141
+   Neutral:   0.08913342
+
+C61.png
+   Happiness: 0.709911
+   Sadness:   0.0110041276
+   Neutral:   0.114248894
+
+C62.png
+   Happiness: 0.580441952
+   Sadness:   0.0100157652
+   Neutral:   0.1635308
+
+C63.png
+   Happiness: 0.6590636
+   Sadness:   0.00264464063
+   Neutral:   0.212298065
+
+C64.png
+   Happiness: 0.5987059
+   Sadness:   0.0258059949
+   Neutral:   0.142793879
+
+C65.png
+   Happiness: 0.3470742
+   Sadness:   0.127845466
+   Neutral:   0.189383537
+
+C66.png
+   Happiness: 0.5061657
+   Sadness:   0.07431616
+   Neutral:   0.177667737
+
+C67.png
+   Happiness: 0.487031251
+   Sadness:   0.0495259278
+   Neutral:   0.225707307
+
+C68.png
+   Happiness: 0.488518864
+   Sadness:   0.009645388
+   Neutral:   0.259679884
+
+C69.png
+   Happiness: 0.4151279
+   Sadness:   0.0155627169
+   Neutral:   0.2771855
+
+C7.png
+   Happiness: 1.0
+   Sadness:   1.56226025e-13
+   Neutral:   4.93438845e-09
+
+C70.png
+   Happiness: 0.317630231
+   Sadness:   0.0432339944
+   Neutral:   0.3239085
+
+C71.png
+   Happiness: 0.213032663
+   Sadness:   0.03361852
+   Neutral:   0.403585255
+
+C72.png
+   Happiness: 0.2933675
+   Sadness:   0.04556405
+   Neutral:   0.372825056
+
+C73.png
+   Happiness: 0.281865448
+   Sadness:   0.04784988
+   Neutral:   0.3821157
+
+C74.png
+   Happiness: 0.216829628
+   Sadness:   0.0322428942
+   Neutral:   0.439299464
+
+C75.png
+   Happiness: 0.133019239
+   Sadness:   0.08726802
+   Neutral:   0.3543528
+
+C76.png
+   Happiness: 0.127153173
+   Sadness:   0.02986433
+   Neutral:   0.4293886
+
+C77.png
+   Happiness: 0.05569531
+   Sadness:   0.06289565
+   Neutral:   0.466879785
+
+C78.png
+   Happiness: 0.07960357
+   Sadness:   0.0832277
+   Neutral:   0.522904754
+
+C79.png
+   Happiness: 0.0558616668
+   Sadness:   0.0354589038
+   Neutral:   0.5217828
+
+C8.png
+   Happiness: 1.0
+   Sadness:   3.07449448e-11
+   Neutral:   1.56601132e-08
+
+C80.png
+   Happiness: 0.09912488
+   Sadness:   0.0226951577
+   Neutral:   0.5759156
+
+C81.png
+   Happiness: 0.0266389381
+   Sadness:   0.139494747
+   Neutral:   0.511413932
+
+C82.png
+   Happiness: 0.0634868443
+   Sadness:   0.0566719659
+   Neutral:   0.559812
+
+C83.png
+   Happiness: 0.0483404957
+   Sadness:   0.0542015545
+   Neutral:   0.518347859
+
+C84.png
+   Happiness: 0.02648085
+   Sadness:   0.0517880321
+   Neutral:   0.631538868
+
+C85.png
+   Happiness: 0.0203342121
+   Sadness:   0.0362476148
+   Neutral:   0.6533615
+
+C86.png
+   Happiness: 0.0917122662
+   Sadness:   0.02184484
+   Neutral:   0.6808912
+
+C87.png
+   Happiness: 0.0100351591
+   Sadness:   0.0339979157
+   Neutral:   0.715600252
+
+C88.png
+   Happiness: 0.00751473568
+   Sadness:   0.0517099
+   Neutral:   0.7899401
+
+C89.png
+   Happiness: 0.005896212
+   Sadness:   0.365711927
+   Neutral:   0.505412161
+
+C9.png
+   Happiness: 1.0
+   Sadness:   2.61079027e-13
+   Neutral:   4.740434e-09
+
+C90.png
+   Happiness: 0.0221155751
+   Sadness:   0.07212437
+   Neutral:   0.6959473
+
+C91.png
+   Happiness: 0.00905018
+   Sadness:   0.0552545972
+   Neutral:   0.8605874
+
+C92.png
+   Happiness: 0.008233743
+   Sadness:   0.124289475
+   Neutral:   0.7554504
+
+C93.png
+   Happiness: 0.00742824655
+   Sadness:   0.011639691
+   Neutral:   0.91398716
+
+C94.png
+   Happiness: 0.00617725262
+   Sadness:   0.102738045
+   Neutral:   0.8021972
+
+C95.png
+   Happiness: 0.00627748668
+   Sadness:   0.109448478
+   Neutral:   0.8219705
+
+C96.png
+   Happiness: 0.003502753
+   Sadness:   0.127791822
+   Neutral:   0.749309957
+
+C97.png
+   Happiness: 0.00148316682
+   Sadness:   0.122353986
+   Neutral:   0.8156018
+
+C98.png
+   Happiness: 0.00453146175
+   Sadness:   0.114672892
+   Neutral:   0.797533154
+
+C99.png
+   Happiness: 0.0057064686
+   Sadness:   0.157122284
+   Neutral:   0.7441631
