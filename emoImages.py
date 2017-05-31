@@ -83,6 +83,7 @@ Steps aren't precise, so you might have to play around a little.
         
 
 """
+# Philippe says hi
 
 # Variables to set by user 
 
